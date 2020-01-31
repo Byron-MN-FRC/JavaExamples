@@ -1,4 +1,4 @@
-class Order {
+class OrderAndEnumerations {
     // Define the days of the week in an enumeration
     public enum Day {
         Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
